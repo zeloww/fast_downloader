@@ -23,6 +23,7 @@ They are stored in `python_file_directory/fast_downloader/`
 
 ## Example
 ![image](https://media.discordapp.net/attachments/875082553298665553/880162160959946782/unknown.png)
+
 ![image](https://media.discordapp.net/attachments/875082553298665553/880162423720513546/unknown.png)
 
 # Support
