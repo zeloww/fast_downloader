@@ -1,14 +1,14 @@
-import os
+from os import system
 
 try:
     import youtube_dl
     
 except:
-    os.system("pip install youtube_dl")
+    system("pip install youtube_dl")
     import youtube_dl
 
-os.system("color d")
-os.system("cls")
+system("color d")
+system("cls")
 
 zelow = """
 ███████╗ █████╗ ███████╗████████╗    ██████╗  ██████╗ ██╗    ██╗███╗   ██╗██╗      ██████╗  █████╗ ██████╗ ███████╗██████╗ 
